@@ -22,3 +22,4 @@
 2025-05-07 23:11:51.883 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
 2025-05-07 23:12:22.397 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:3,$model11)
 2025-05-07 23:12:31.540 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:3,$model13)
+2025-05-07 23:26:26.200 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

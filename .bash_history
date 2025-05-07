@@ -14,3 +14,8 @@ git commit -m "hola"
 git push
 git remote add https://github.com/misikss/laboratorio1.git
 git remote add origin https://github.com/misikss/laboratorio1.git
+git add .
+git commit -m "hola"
+git push
+git push --set-upstream origin master
+git status
