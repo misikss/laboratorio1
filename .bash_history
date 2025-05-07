@@ -31,3 +31,9 @@ sudo apt install git-flow
 git status
 git reset --hard
 git clean -fd
+git add .
+git commit -m "Backup antes de iniciar git flow"
+git flow init
+git push
+git flow init
+git status
