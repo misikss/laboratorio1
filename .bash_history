@@ -19,3 +19,13 @@ git commit -m "hola"
 git push
 git push --set-upstream origin master
 git status
+git add .
+git commit -m "holaa"
+git push
+git flow
+git flow init
+sudo apt-get install git-flow
+init git flow
+sudo apt update
+sudo apt install git-flow
+git status
