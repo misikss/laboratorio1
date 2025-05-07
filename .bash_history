@@ -29,3 +29,5 @@ init git flow
 sudo apt update
 sudo apt install git-flow
 git status
+git reset --hard
+git clean -fd
